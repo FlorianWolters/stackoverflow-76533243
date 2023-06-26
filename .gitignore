@@ -1,13 +1,13 @@
 # Apache Maven
-/target
+target/
 .flattened-pom.xml
 
 # JetBrains IntelliJ IDEA
-/.idea
+.idea/
 *.iml
 
 # Microsoft Visual Studio Code
-/.vscode
+.vscode/
 
 # Java
 *.class
