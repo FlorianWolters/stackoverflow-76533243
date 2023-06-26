@@ -1,0 +1,29 @@
+# Apache Maven
+/target
+.flattened-pom.xml
+
+# JetBrains IntelliJ IDEA
+/.idea
+*.iml
+
+# Microsoft Visual Studio Code
+/.vscode
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore files with specific extension in all directories.
+*.bak
+*.log
+*.old
+*.tmp
+
+*.7z
+*.gz
+*.rar
+*.tar.gz
+*.tz
+*.zip
