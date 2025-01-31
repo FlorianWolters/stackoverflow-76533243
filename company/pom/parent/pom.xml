@@ -46,7 +46,7 @@
         <io.github.florianwolters.version.maven-project-info-reports-plugin>3.4.5</io.github.florianwolters.version.maven-project-info-reports-plugin>
         <io.github.florianwolters.version.maven-surefire-report-plugin>3.1.2</io.github.florianwolters.version.maven-surefire-report-plugin>
         <io.github.florianwolters.version.checkstyle>10.12.0</io.github.florianwolters.version.checkstyle>
-        <io.github.florianwolters.version.pmd>6.55.0</io.github.florianwolters.version.pmd>
+        <io.github.florianwolters.version.pmd>7.10.0</io.github.florianwolters.version.pmd>
         <io.github.florianwolters.version.doxia-site-renderer>1.11.1</io.github.florianwolters.version.doxia-site-renderer>
         <io.github.florianwolters.version.doxia-decoration-model>1.11.1</io.github.florianwolters.version.doxia-decoration-model>
         <io.github.florianwolters.version.doxia-module-markdown>1.12.0</io.github.florianwolters.version.doxia-module-markdown>
